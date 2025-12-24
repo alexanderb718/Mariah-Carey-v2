@@ -2,8 +2,6 @@ const { Client, GatewayIntentBits, ActivityType, Collection } = require('discord
 const Radio = require('./utils/Radio');
 const config = require('./config.json');
 
-require('dotenv').config();
-
 const client = new Client({
 	presence: {
 		status: 'online',
