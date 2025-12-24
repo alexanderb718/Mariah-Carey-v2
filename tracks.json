@@ -1,0 +1,38 @@
+[
+	{
+		"filename": "./mp3-files/og.mp3",
+		"weight": 0.20
+	},
+	{
+		"filename": "./mp3-files/eurobeat.mp3",
+		"weight": 0.15
+	},
+	{
+		"filename": "./mp3-files/metal.mp3",
+		"weight": 0.10
+	},
+	{
+		"filename": "./mp3-files/toad.mp3",
+		"weight": 0.10
+	},
+	{
+		"filename": "./mp3-files/nightcore.mp3",
+		"weight": 0.05
+	},
+	{
+		"filename": "./mp3-files/pipe.mp3",
+		"weight": 0.10
+	},
+	{
+		"filename": "./mp3-files/plankton.mp3",
+		"weight": 0.10
+	},
+	{
+		"filename": "./mp3-files/sans.mp3",
+		"weight": 0.10
+	},
+	{
+		"filename": "./mp3-files/villager.mp3",
+		"weight": 0.10
+	}
+]
